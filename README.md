@@ -6,7 +6,7 @@
 - 👩‍💻 Computer Science student of Ho Chi Minh City University of Technoloy 
 - 💻 Passionate about <i>Frontend Developer</i>, mainly focus on <i>React JS</i>
 
-៚ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ˁᱸᲲᱸˀ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ༄
+៚ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ˁᱸᲲᱸˀ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ༄
 
 ### <span><b>Connect with me: </b></span> <span><a href="https://www.facebook.com/ntkhanhlinh26" target="blank"><img align="center" src="https://img.icons8.com/bubbles/1000/000000/facebook.png" alt="" height="50" width="50" /></a></span>
 
@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-៚ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ˁᱸᲲᱸˀ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ༄
+៚ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ˁᱸᲲᱸˀ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ༄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendy02062001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
