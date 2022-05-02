@@ -1,10 +1,13 @@
 ![MasterHead](https://www.westcoastyogaperth.com/wp-content/uploads/2019/07/GrossCornyAustraliankestrel-max-1mb.gif)
 <h1 align="center">Hi, my name is 𝒲𝑒𝓃𝒹𝓎 ₍ᐢ⑅ᐢ₎ </h1>
-<h4 align="center">A girl finding the combination of Art and Technology ♡</h4>
+<h4 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Majoring;Front+End+Developer;Art+and+Technology+lover+♡&center=true&width=500&height=50"></a>
+</h4>
 
 - 🐰 My name is Khanh Linh, but you can call me <b>Wendy</b>
 - 👩‍💻 Computer Science student of Ho Chi Minh City University of Technoloy 
 - 💻 Passionate about <i>Frontend Developer</i>, mainly focus on <i>React JS</i>
+- :heartpulse: A girl finding the combination of Art and Technology ♡
 
 ៚ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ˁᱸᲲᱸˀ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ༄
 
