@@ -1,7 +1,8 @@
 ![MasterHead](https://www.westcoastyogaperth.com/wp-content/uploads/2019/07/GrossCornyAustraliankestrel-max-1mb.gif)
-<h1 align="center">Hi, my name is 𝒲𝑒𝓃𝒹𝓎 ₍ᐢ⑅ᐢ₎ </h1>
+<h1 align="center"> Hi, my name is 𝒲𝑒𝓃𝒹𝓎 <img src="https://66.media.tumblr.com/46a346ebb12ffe4b4f9e145619b3b5bd/tumblr_mfi0vlMZ3o1rfjowdo1_500.gif" width="40"/>  </h1>
 <h4 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Wendy's+code+world;Art+and+Technology+lover+♡&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Wendy's+code+world+₍ᐢ⑅ᐢ₎;Art+and+Technology+lover+♡&center=true&width=500&height=50"></a>
 </h4>
 
 - 🐰 My name is Khanh Linh, but you can call me <b>Wendy</b>
@@ -11,7 +12,7 @@
 
 ៚ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ˁᱸᲲᱸˀ ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯ ༄
 
-### <span><b>Connect with me: </b></span> <span><a href="https://www.facebook.com/ntkhanhlinh26" target="blank"><img align="center" src="https://img.icons8.com/bubbles/1000/000000/facebook.png" alt="" height="50" width="50" /></a></span>
+### <span><b>Connect with me: </b></span> <span><a href="https://www.facebook.com/ntkhanhlinh26" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_142110010_ORGANIC_FB_ICON_400.gif" alt="" height="50" width="50" /></a></span>
 
 ### Technical Skills: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
